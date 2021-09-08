@@ -1,0 +1,22 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "Create Meal",
+      "file": "/home/breno/Documentos/Projetos/ignite/elixir/chapter3/exmeal/test/exmeal/meals/create_test.exs",
+      "line": 24,
+      "module": "Elixir.Exmeal.Meals.CreateTest",
+      "test": "test Create Meal when there are invalid params, returns an error"
+    },
+    {
+      "describe": "Create Meal",
+      "file": "/home/breno/Documentos/Projetos/ignite/elixir/chapter3/exmeal/test/exmeal/meals/create_test.exs",
+      "line": 6,
+      "module": "Elixir.Exmeal.Meals.CreateTest",
+      "test": "test Create Meal when all params are valid, returns the meal"
+    }
+  ],
+  "skiped": []
+}
